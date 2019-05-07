@@ -17,3 +17,8 @@ Virtually unlimited record storage (limited by the space on your device).
 We do not collect location data or have access to any of your data, data is stored only on your device.
 
 No ads are displayed, we are not ad supported.
+
+
+# To Contact me
+
+email: jpv634@yeah.net
